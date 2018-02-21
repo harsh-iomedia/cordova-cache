@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-cache",
+  "description": "WebView cache plugin for Cordova that allows to clear the cordova webview cache.",
+  "version": "1.1.0",
+  "homepage": "https://github.com/harsh-iomedia/cordova-cache/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/harsh-iomedia/cordova-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harsh-iomedia/cordova-cache/issues"
+  },
+  "cordova": {
+    "id": "at.modalog.cordova.plugin.cache",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Harsh SQM",
+  "license": "Apache-2.0",
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
